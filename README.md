@@ -1,6 +1,6 @@
 # ONDC Abstraction APIs
 
-# Prerequisies
+# Prerequisites
 1. NodeJS (16 or above is preferred)
 2. Google Firebase credentials
 
